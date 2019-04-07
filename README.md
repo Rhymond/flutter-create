@@ -32,6 +32,11 @@ Thanks for Flutter team I had really great experience building it with Flutter.
 
 Code is formated using `dartfmt`
 
+```
+❯ find . -name "*.dart" | xargs cat | wc -c
+    5089
+```
+
 License
 -
 The MIT License (MIT). Please see License File for more information.
