@@ -1,14 +1,10 @@
 # Typer - Improve your Typing Speed.
 
-Submission for the FlutterCreate contest.
+This is my submission for the #FlutterCreate contest. My goal was to create a simple game to improve your typing speed.
 
-<div style="text-align:center"><img src ="prev.gif" /></div>
+<div style="text-align:center"><img src ="previ.gif" /></div>
 
-This the first app ever!
-
-I heard about #fluttercreate contest on April 4th and it took me only day to build this app for a contest.
-
-Thanks for Flutter team I had really great experience building it with Flutter.
+I heard about #fluttercreate contest on April 4th and it took me only a day to build this app for a contest. I was really impressed how easy and fast you can build apps with Flutter.
 
 ## How to run
 
@@ -30,7 +26,7 @@ Thanks for Flutter team I had really great experience building it with Flutter.
 
 ## Side notes
 
-Code is formated using `dartfmt`
+Code is formatted using `dartfmt`
 
 ```
 ❯ find . -name "*.dart" | xargs cat | wc -c
